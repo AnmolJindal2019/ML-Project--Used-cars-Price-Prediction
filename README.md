@@ -21,6 +21,8 @@ For this project, we have implemented various machine learning aglorithms on the
 3. Methodology - For this we used various machine learning techniques that best suited our model. These include Linear Regression, Ridge regression, Lasso regression, KNN, Random Forest, AdaBoost, XGBoost. 
 
 ### How to Run ? 
+There is one python notebook which contains the code of our model.
+You have to just run the .ipynb file to run the code. 
 
 
 ### Installed dependencies

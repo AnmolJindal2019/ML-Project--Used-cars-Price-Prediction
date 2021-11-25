@@ -25,7 +25,7 @@ For this project, we have implemented various machine learning aglorithms on the
 
 ### Installed dependencies
 
-  import pandas as pd
+  import pandas as pd </br>
   import numpy as np
   import matplotlib.pyplot as plt
   import missingno as ms

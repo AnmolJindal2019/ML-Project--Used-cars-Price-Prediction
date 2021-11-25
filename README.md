@@ -24,33 +24,34 @@ For this project, we have implemented various machine learning aglorithms on the
 
 
 ### Installed dependencies
-import pandas as pd
-import numpy as np
-import matplotlib.pyplot as plt
-import missingno as ms
-from sklearn.preprocessing import LabelEncoder
-from tqdm import tqdm
-from sklearn.experimental import enable_iterative_imputer
-from sklearn.impute import IterativeImputer
-from sklearn.impute import SimpleImputer
-from sklearn.ensemble import RandomForestRegressor
-from sklearn.linear_model import BayesianRidge
-from sklearn.tree import DecisionTreeRegressor
-from sklearn.neighbors import KNeighborsRegressor
-from sklearn.preprocessing import OrdinalEncoder
-from sklearn.model_selection import cross_val_score
-from sklearn.model_selection import RepeatedStratifiedKFold
-from sklearn.ensemble import AdaBoostRegressor
-from sklearn.pipeline import Pipeline
-from sklearn.metrics import mean_squared_log_error,r2_score,mean_squared_error
-from sklearn.linear_model import Ridge
-from sklearn.linear_model import LassoCV,RidgeCV
-from yellowbrick.regressor import AlphaSelection
-import xgboost as xgb
-from sklearn.linear_model import Lasso
-from sklearn.neighbors import KNeighborsRegressor
-import warnings
-warnings.filterwarnings('ignore')
+
+  import pandas as pd
+  import numpy as np
+  import matplotlib.pyplot as plt
+  import missingno as ms
+  from sklearn.preprocessing import LabelEncoder
+  from tqdm import tqdm
+  from sklearn.experimental import enable_iterative_imputer
+  from sklearn.impute import IterativeImputer
+  from sklearn.impute import SimpleImputer
+  from sklearn.ensemble import RandomForestRegressor
+  from sklearn.linear_model import BayesianRidge
+  from sklearn.tree import DecisionTreeRegressor
+  from sklearn.neighbors import KNeighborsRegressor
+  from sklearn.preprocessing import OrdinalEncoder
+  from sklearn.model_selection import cross_val_score
+  from sklearn.model_selection import RepeatedStratifiedKFold
+  from sklearn.ensemble import AdaBoostRegressor
+  from sklearn.pipeline import Pipeline
+  from sklearn.metrics import mean_squared_log_error,r2_score,mean_squared_error
+  from sklearn.linear_model import Ridge
+  from sklearn.linear_model import LassoCV,RidgeCV
+  from yellowbrick.regressor import AlphaSelection
+  import xgboost as xgb
+  from sklearn.linear_model import Lasso
+  from sklearn.neighbors import KNeighborsRegressor
+  import warnings
+  warnings.filterwarnings('ignore')
 
 ### Contact 
 For any furhter queries feel free to reach out the following contributors. 

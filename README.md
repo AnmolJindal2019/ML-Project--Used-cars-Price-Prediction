@@ -6,7 +6,7 @@ Predicting the price of second-hand cars is not an easy task.
 In recent times, there has been an increase in the demand
 for used cars, making it essential to predict the price more
 accurately due to consumer exploitation, which can happen
-due to high demand.
+due to high demand. \\
 Predicting the price of a car includes various factors like
 mileage, version, location, engine capacity, power steering,
 and many more. Collating this information and buying the

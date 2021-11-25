@@ -15,7 +15,10 @@ fruitful results.
 
 
 ### Description and Implementation Details
+For this project, we have implemented various machine learning aglorithms on the dataset extracted from kaggle. We have used the following steps to reach to our conclusion - <br>
 
+1. Data Cleaning and Preprocessing - In this we first did feature selection, then we encoded the categorical features. Then we handled the null values by either dropping the rows containing the null values or by replacing null values by method of imputation. 
+3. Methodology - For this we used various machine learning techniques that best suited our model. These include Linear Regression, Ridge regression, Lasso regression, KNN, Random Forest, AdaBoost, XGBoost. 
 
 ### How to Run ? 
 

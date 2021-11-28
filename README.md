@@ -59,7 +59,7 @@ You have to just run the .ipynb file to run the code.
 For any furhter queries feel free to reach out the following contributors. 
 
 Anmol Jindal (anmol19294@iiitd.ac.in) </br>
-Droov Goel (droov19303@iiitd.ac.in) </br>
+Dhroov Goel (droov19303@iiitd.ac.in) </br>
 Sakshat Mali (sakshat19327@iiitd.ac.in) </br>
 Shubham Garg (shubham19336@iiitd.ac.in) </br>
 

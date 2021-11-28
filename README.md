@@ -64,4 +64,8 @@ Sakshat Mali (sakshat19327@iiitd.ac.in) </br>
 Shubham Garg (shubham19336@iiitd.ac.in) </br>
 
 ## Final Report
-
+![Page 1](https://github.com/AnmolJindal2019/ML-Project--Used-cars-Price-Prediction/blob/main/Final%20Report/Group37_FinalProjectReport-1.png)
+![Page 2](https://github.com/AnmolJindal2019/ML-Project--Used-cars-Price-Prediction/blob/main/Final%20Report/Group37_FinalProjectReport-2.png)
+![Page 3](https://github.com/AnmolJindal2019/ML-Project--Used-cars-Price-Prediction/blob/main/Final%20Report/Group37_FinalProjectReport-3.png)
+![Page 4](https://github.com/AnmolJindal2019/ML-Project--Used-cars-Price-Prediction/blob/main/Final%20Report/Group37_FinalProjectReport-4.png)
+![Page 5](https://github.com/AnmolJindal2019/ML-Project--Used-cars-Price-Prediction/blob/main/Final%20Report/Group37_FinalProjectReport-5.png)

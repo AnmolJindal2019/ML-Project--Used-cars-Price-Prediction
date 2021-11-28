@@ -62,3 +62,6 @@ Anmol Jindal (anmol19294@iiitd.ac.in) </br>
 Droov Goel (droov19303@iiitd.ac.in) </br>
 Sakshat Mali (sakshat19327@iiitd.ac.in) </br>
 Shubham Garg (shubham19336@iiitd.ac.in) </br>
+
+## Final Report
+[Group37_FinalProjectReport.pdf](https://github.com/AnmolJindal2019/ML-Project--Used-cars-Price-Prediction/files/7614000/Group37_FinalProjectReport.pdf)
